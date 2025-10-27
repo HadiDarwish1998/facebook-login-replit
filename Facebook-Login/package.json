@@ -1,0 +1,13 @@
+{
+  "name": "facebook-login",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.4.1",
+    "express": "^4.19.2"
+  }
+}
